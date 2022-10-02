@@ -1,0 +1,37 @@
+.chat {
+    top: 8rem;
+    background-color: rgba(255, 228, 196, 0.685);
+    position: relative;
+    height: 27rem;
+    width: 50%;
+    left: 28%;
+    overflow-y: scroll;
+}
+
+.chat::-webkit-scrollbar {
+    width: 1rem;
+    background-color: rgba(0, 0, 0, 0.356);
+}
+
+.chat-thumb {
+    background-color: #ffffff39;
+    width: 0.1rem;
+    border-radius: 1rem;
+}
+
+.inputs {
+    position: absolute;
+    top: 5%;
+    left: 42%;
+}
+
+.container2 {
+    position: relative;
+    top: 32%;
+}
+
+.tit {
+    position: absolute;
+    top: -220%;
+    left: 28%;
+}
